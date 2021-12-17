@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687382412757",
+    "project_id": "penulis-handal-479ec",
+    "storage_bucket": "penulis-handal-479ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687382412757:android:b38fb0129cafbe9680d15c",
+        "android_client_info": {
+          "package_name": "com.anggapambudi.penulishandal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687382412757-8r1kmmu7r5dlb3qhbd71jp8hei3mhol7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anggapambudi.penulishandal",
+            "certificate_hash": "2d34fe8dbb0e11cb9b2cd1e22b84efba1a824ca6"
+          }
+        },
+        {
+          "client_id": "687382412757-r29pmdis5jtn7fhhioh1q8vjl826ldkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUeGRVuo_7O_LkRkJq12hY9WfwyiVqeV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687382412757-r29pmdis5jtn7fhhioh1q8vjl826ldkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

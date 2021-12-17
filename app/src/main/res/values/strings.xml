@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Penulis Handal</string>
+    <string name="tuliskan_sesuatu_disini">Tuliskan sesuatu disini</string>
+    <string name="gass_convert">Gass Convert</string>
+    <string name="download">download</string>
+    <string name="download_gambar">Download Gambar</string>
+</resources>
